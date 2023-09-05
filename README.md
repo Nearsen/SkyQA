@@ -6,3 +6,13 @@
 Jira, qase.io, SQL, Postman, Swagger, Trello,
 SoapUI, Android Studio, Charles, Chrome DevTools.
 ## <h2>Проекты<h2>
+
+
+
+
+
+
+
+## <h2>Контактная информация<h2>
+Email: nearsen@yahoo.com
+LinkedIn: https://www.linkedin.com/in/username/
