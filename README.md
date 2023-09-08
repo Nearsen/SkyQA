@@ -27,5 +27,6 @@ SoapUI, Android Studio, Charles, Chrome DevTools.
 
 
 ## <h2>Контактная информация<h2>
-Email: nearsen@yahoo.com
-LinkedIn: https://www.linkedin.com/in/username/
+<p>Email: nearsen@yahoo.com<br>
+  
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/arsen-nevredimov-87114b77)
