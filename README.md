@@ -16,7 +16,7 @@ SoapUI, Android Studio, Charles, Chrome DevTools.
 Приемочное тестирование;<br>
 Тестирование API.</p>
 
-##### <h5>[Ссылка на проект]([https://github.com/Skyproportfolio/tester-5month](https://drive.google.com/file/d/1pFsM64LoCLT0zMNx4IbV-ax53aftBTJO/view?usp=drivesdk))<h5>
+##### <h5>[Ссылка на проект](https://drive.google.com/file/d/1pFsM64LoCLT0zMNx4IbV-ax53aftBTJO/view?usp=drivesdk)<h5>
 
 #### <h4>ВЫВОД<h4>
 <p>Продукт к выпуску не готов.<br>
